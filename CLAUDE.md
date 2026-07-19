@@ -1,3 +1,9 @@
+<!-- MODEL-BODY: MasterModel.bd -->
+> **🧭 Model-Body:** Dieses Repo ist ein **Body** von `MasterModel.bd` — einem projekt-agnostischen
+> AI-Entwicklungs-System (Kopf/Regeln/Skills/Agenten/Guards). Dessen Regeln, Skills, Guards und die
+> Lern-Schleife (Muster ins Model, Fall bleibt hier) gelten auch hier.
+> Details: [`.claude/MODEL-LINK.md`](.claude/MODEL-LINK.md) — `@.claude/MODEL-LINK.md`
+
 # CLAUDE.md
 
 ## Project
